@@ -1,9 +1,11 @@
 # XenithRai
 Cube Trainer Version A1.0
 
+
 Welcome to Cube Trainer! This program is still in its early development cycle.
 
 Right now, the OLL trainer is the only thing that is fully fuctional. OLL trainer allows you to select which algs you wish to focus on and shows you the alg to solve it. The selected algs will display one at a time in a random order.
+
 
 Known Issues:
 
@@ -16,6 +18,7 @@ Clicking "Next" doesn't show a new alg
 Clicking "Stop" reopens the OLL Trainer window
 
   -This button is intended to "reset" the form and will be modified in future versions to be smoother
+
 
 
 Future Major Update Cycle :
